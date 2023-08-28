@@ -12,13 +12,19 @@
 
 ## Set up the project:
   1. You will have to install ncurses.h
+
     - `sudo apt-get install libncurses5-dev`
+
   2. Once you install the library, you will have to add it during compilation process.
+
     - `gcc file1.c file2.c -o program_name -lncurses`
-    - Note that We included `-incurses` mode for development.
-  3. The program executable file must be named `TextEditor`
-  4. Running the program
+    
+  4. The program executable file must be named `TextEditor`
+
+  6. Running the program
+
     - `./TextEditor`
+
 > [!NOTE]
 > We included `-incurses` mode for development while compiling.
 

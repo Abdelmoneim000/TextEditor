@@ -1,6 +1,6 @@
 # A TEXT EDITOR TERMINAL BASED!!
 
-![Coding](https://ibb.co/6DjXtLR)
+![Coding](./giphy.gif)
 
 
 ## worked on ths project:

@@ -19,9 +19,9 @@
 
   3. Once you install the library, you will have to add it during compilation process.
 
-    ```
+     ```
       gcc file1.c file2.c -o program_name -lncurses
-    ```
+     ```
     
   4. The program executable file must be named `TextEditor`
 

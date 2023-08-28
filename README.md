@@ -39,7 +39,7 @@
 
     - Try adding some resources. (It's always best for your teammates to see how you get your logic and code syntax).
 
-    - Try mentionning someone Helped you during the Project (Credits are important) :wink:
+    - Try mentionning someone Helped you during the Project (Credits are important)
 
   3. Adding documentation to your code.
 

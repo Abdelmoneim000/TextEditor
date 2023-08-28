@@ -3,7 +3,7 @@
 ![Coding](./giphy.gif)
 
 
-## worked on ths project:
+## worked on this project:
 
   - [Insert your name here] , github_name
   - [Insert your name here] , github_name
@@ -28,15 +28,25 @@
 ### Requirements:
 
   1. Make your own branch.
+
     - create your git branch with your name on it (Ex. Ahmed_amr)
+
   2. Inside your branch, Make sure to add `md` or `.text` file.
+
     - Add your assigned tasks in it.
+
     - Describe your Part in the Project (Ex. Handled reading multiple inputs function, created A switch Case to read special keys...)
+
     - Try adding some resources. (It's always best for your teammates to see how you get your logic and code syntax).
+
     - Try mentionning someone Helped you during the Project (Credits are important :wink:	)
+
   3. Adding documentation to your code.
+
     - All your functions must be explained, in your text file or inside your code
+
     - IF inside your code, please add how the function works in general and explain complicated lines.
+    
   4. Ladies and Gentlemen, This branch looks good, merge it to start testing :shipit: 
 
 ----------

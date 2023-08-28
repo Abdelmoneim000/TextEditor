@@ -27,7 +27,7 @@
 
   6. Running the program
 
-    - `./TextEditor`
+    ./TextEditor
 
 > [!NOTE]
 > We included `-incurses` mode for development while compiling.

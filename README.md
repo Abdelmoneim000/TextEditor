@@ -46,9 +46,11 @@
     - All your functions must be explained, in your text file or inside your code
 
     - IF inside your code, please add how the function works in general and explain complicated lines.
-    
-  4. Ladies and Gentlemen, This branch looks good, merge it to start testing :shipit: 
+
+  ### Ladies and Gentlemen, This branch looks good, merge it to start testing :shipit: 
 
 ----------
 
 ## Happy Coding !!
+
+

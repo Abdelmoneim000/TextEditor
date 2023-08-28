@@ -53,6 +53,3 @@
 
 ## Happy Coding !!
 
-Ahmed - Nasef - Sarah - Abdallah
-
-Blue - Heba - Aysha - mohammed
